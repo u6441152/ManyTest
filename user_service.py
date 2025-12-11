@@ -4,7 +4,7 @@ import pickle
 import subprocess
 
 # 问题1: 硬编码敏感信息
-DATABASE_PASSWORD = "super_secret_123"
+DATABASE_PASSWORD = "super_secret_1234"
 API_SECRET_KEY = "sk-prod-abcdefghijklmnop"
 
 class UserService:
